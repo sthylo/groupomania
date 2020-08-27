@@ -16,8 +16,8 @@ Télécharger le repository et suivez les instructions ci-après pour installer 
 * Connectez-vous à MySQL : `mysql -h localhost -u root -p`
 * Tapez votre mot de passe 
 * Créez la base de données : `CREATE DATABASE groupomania_database CHARACTER SET 'utf8';`
-* Importez le fichier groupomania_database.sql : `SOURCE groupomania_database.sql;`
 * Utilisez la base de données créée : `USE groupomania_database`
+* Importez le fichier groupomania_database.sql : `SOURCE groupomania_database.sql;`
 * Dans le dossier backend, allez dans le fichier connectdb.js et renseignez votre mot de passe dans password:'xxxxxx'
 
 ## Installation et démarrage du Backend
